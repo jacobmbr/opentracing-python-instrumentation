@@ -29,7 +29,7 @@ setup(
     install_requires=[
         'future',
         'wrapt',
-        'tornado>=4.1,<5',
+        'tornado>=4.1',
         'contextlib2',
         'opentracing>=1.1,<2',
         'six',
